@@ -1,12 +1,14 @@
-# Adminer - Connect to database
+# 1. Adminer - Connect to database
 http://localhost:7000/adminer-custom-master/
 
-# Mail Trap (Faker Mail Testing)
+# 2. Mail Trap (Faker Mail Testing)
 https://mailtrap.io/inboxes/1641393/messages
 
-# Sentry Bug Tracking
+# 3. Sentry Bug Tracking
 https://sentry.io/organizations/aslancorp/dashboards/
 
-# Menggunakan Laravel Jetstream - scaffolding with tailwindcss
+# 4. Menggunakan Laravel Jetstream - scaffolding with tailwindcss
+https://laravel.com/docs/8.x/starter-kits#laravel-jetstream
 
-# Menggunakan Laravel Sanctum - merupakan library untuk membuat authentikasi dalam API
+# 5. Menggunakan Laravel Sanctum - merupakan library untuk membuat authentikasi dalam API
+https://laravel.com/docs/8.x/sanctum#main-content
